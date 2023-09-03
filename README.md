@@ -3,7 +3,8 @@
 Welcome to the BlogApp repository! This project showcases the implementation of a modern blog application using cutting-edge technologies like Spring Boot, Spring MVC, Hibernate ORM, Lombok, and Spring Security.
 The focus of this application is to demonstrate the power of RESTful API development.
 
-![flowDiagram](https://github.com/Kamal725528/BlogApp/assets/88225844/de1edfb1-92ca-4c4a-ac03-c9b0f0555f8e)
+![flowProject](https://github.com/Kamal725528/BlogApp/assets/88225844/dd059385-6ad2-4531-9f32-4f7cc27356ec)
+
 ## Features
 
 •	REST API: Embracing the current trend in software development, this application is built around a robust RESTful API architecture.
